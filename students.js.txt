@@ -1,0 +1,44 @@
+student = {
+	"firstName":"Zinedine",
+	"lastName":"Zidane",
+	"email":"zzidane@mysql.com",
+	"gender":"M",
+	"country":"France",
+	"isStudentActive":false,
+	"favouriteSubjects":[
+		"maths",
+		"english",
+		"it"
+	],
+	"totalSpentInBooks": 7.00
+}
+
+students = 
+[{
+	"firstName":"Retha",
+	"lastName":"Killeen",
+	"email":"rkilleen0@mysql.com",
+	"gender":"F",
+	"country":"Philippines",
+	"isStudentActive":false,
+	"favouriteSubjects":[
+		"maths",
+		"english",
+		"it"
+	],
+	"totalSpentInBooks":0.00
+},
+{
+	"firstName":"Laurent",
+	"lastName":"Blanc",
+	"email":"lblanc@mysql.com",
+	"gender":"M",
+	"country":"France",
+	"isStudentActive":false,
+	"favouriteSubjects":[
+		"maths",
+		"english",
+		"it"
+	],
+	"totalSpentInBooks": 10.00
+}]
